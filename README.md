@@ -6,7 +6,7 @@ Este repositorio contiene los archivos utilizados para el diseño, modelado y pr
 
 ## 📂 Estructura del Repositorio
 
-- 🦾 [**GARRAFINAL.zip**](.FigurasAltas.zip)  
+- 🦾 [**GARRAFINAL.zip**](./GARRAFINAL.zip)  
   Contiene todas las **piezas** y el **ensamble completo** de la pinza desarrollada.  
   Incluye los archivos **CAD** y los componentes necesarios para su **montaje**.  
   > 💡 Aquí encontrarás el modelo final de la pinza, listo para visualizar, modificar o imprimir en 3D.
@@ -18,6 +18,13 @@ Este repositorio contiene los archivos utilizados para el diseño, modelado y pr
   - ⬟ **Pentágono**  
   - 🔺 **Pirámide**  
   > 📏 Estas figuras se usaron para evaluar el rendimiento, estabilidad y precisión del sistema de agarre.
+
+---
+
+## 🧰 Software Utilizado
+
+El diseño y modelado de las piezas fueron realizados en **Autodesk Inventor® Professional 2024**.  
+> 🖥️ Se recomienda utilizar la misma versión o posterior para garantizar la compatibilidad total con los archivos CAD.
 
 ---
 
